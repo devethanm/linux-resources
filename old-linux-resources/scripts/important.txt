@@ -1,0 +1,3 @@
+use gruvbox theme for vim!
+install yay!
+

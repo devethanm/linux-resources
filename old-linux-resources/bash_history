@@ -1,0 +1,500 @@
+ls
+cd programming/
+ls
+cd ..
+ls
+cd linux-scripts/
+ls
+tcp
+vim README.md 
+git status
+vim README.md 
+gs
+git commit -am "updated readme"
+ls
+cat README.md 
+scp install.sh install2.sh postinstall.sh postinstall2.sh ethan@10.0.0.133:/home/ethan/
+vim README.md 
+scp install.sh install2.sh postinstall.sh postinstall2.sh ethan@10.0.0.133:/home/ethan/
+vim README.md 
+git commit -am "updated readme"
+clear
+scp yayinstall.sh ethan@10.0.0.133:/home/ethan/
+cd programming/cpp/multiFileTest/
+ls
+m
+ls
+rm main.o 
+rm test.o
+ls
+ls
+cd ..
+cd ncurses/
+ls
+rm -r testSnake/
+cp snake/ newSnake
+cp -r snake/ newSnake
+ls
+cd newSnake/
+ls
+rm *.hpp
+rm food.cpp 
+ls
+mc
+rm snake.cpp 
+rm block.cpp 
+ls
+vim Makefile 
+m
+vim main.cpp 
+vim main.cpp 
+m
+vim main.cpp 
+m
+mr
+git init
+git add *
+gcom
+g commit -am "first working commmit"
+ls
+gs
+gl
+ls -a
+cd ..
+cd snake/
+gs
+gl
+gs
+cd ..
+ls
+ls -a
+cd snake/
+ls -a
+rm -r .git/
+sudo rm -r .git/
+ls
+cd ..
+ls
+cd newSnake/
+ls
+mc
+sudo rm -r .git/
+gs
+git init
+git add *
+git commit -am "first working commit"
+gs
+gl
+clear
+gs
+clear
+ls
+ls
+vim main.cpp 
+vim Makefile 
+touch snake.cpp
+touch snake.h
+vim snake.h 
+vim snake.cpp 
+vim Makefile 
+vim main.cpp 
+m
+./output 
+vim main.cpp 
+mc
+vim main.cpp 
+m
+vim main.cpp 
+vim snake.h 
+vim snake.cpp 
+m
+alsamixer
+vim snake.cpp 
+m
+vim snake.cpp 
+m
+vim main.cpp 
+vim snake.cpp 
+vim main.cpp 
+m
+cd ..
+ls
+cd snake/
+ls
+mc
+vim snake.cpp
+vim block.cpp 
+vim snake.cpp 
+vim food.cpp 
+vim food.hpp 
+ls
+mc
+vim block.cpp 
+vim food.cpp 
+ls
+vim food.cpp 
+vim food.hpp 
+vim food.cpp 
+vim vim snake.cpp 
+vim snake.cpp 
+ls
+gs
+vim main.cpp 
+vim food.hpp 
+vim food.cpp 
+vim food.cpp 
+vim snake.hpp 
+vim snake.cpp 
+m
+./output 
+vim main.cpp 
+git init
+git add *
+git commit -am "first working commit"
+vim snake.hpp 
+mc
+m
+mr
+vim main.cpp 
+vim snake.hpp 
+vim main.cpp 
+mc
+vim snake.hpp 
+vim snake.cpp 
+vim snake.cpp 
+vim main.cpp 
+vim snake.cpp 
+vim snake.hpp 
+m
+vim snake.cpp 
+vim snake.hpp 
+m
+vim snake.cpp 
+m
+vim snake.cpp 
+m
+./output 
+vim food.hpp 
+vim food.cpp 
+vim block.cpp 
+gs
+mc
+gs
+git rm *.o
+git rm output
+gs
+gt add *
+gs
+git add *
+gs
+git commit -am "updated classes, added vector blocks for snake class"
+vim main.cpp 
+m
+vim snake.cpp 
+vim snake.hpp 
+vim main.cpp 
+m
+vim snake.hpp 
+vim snake.cpp 
+vim snake.hpp 
+vim snake.cpp 
+vim snake.hpp 
+vim snake.cpp 
+vim main.cpp 
+vim main.cpp 
+m
+vim snake.cpp 
+m
+./output 
+vim main.cpp 
+m
+./output 
+vim main.cpp 
+m
+./output 
+./output 
+./output 
+vim main.cpp 
+m
+mr
+gs
+mc
+gs
+git commit -am "updated snake class and got the first block of the snake to draw in the game loop"
+gs
+touch .gitignore
+vim .gitignore 
+m
+gs
+vim .gitignore 
+ls
+mc
+gs
+git add .gitignore 
+git commit -am "added .gitignore"
+gs
+clear
+m
+gs
+mr
+clear
+cd programming/cpp/ncurses/snake/
+vim snake.hpp 
+m
+cd programming/cpp/ncurses/snake/
+ls
+clear
+mc
+vim main.cpp 
+vim main.cpp 
+m
+vim main.cpp 
+m
+mr
+cd programming/cpp/ncurses/snake/
+ls
+mr
+mc
+ls
+gs
+gl
+clear
+gl
+vim main.cpp 
+m
+mr
+gs
+gcom
+gc
+g commit -am "got rid of using namespace std in main"
+gpush
+gs
+g push -u origin master
+gs
+g remote
+g remote
+g -v
+g remote -v
+git remote -v
+ssh
+clear
+ls
+gl
+clear
+vim main.cpp 
+m
+mr
+mr
+mr
+vim main.cpp 
+m
+vim main.cpp 
+m
+mr
+vim main.cpp 
+mr
+vim main.cpp 
+m
+vim main.cpp 
+m
+m
+mr
+vim main.cpp 
+m
+mr
+vim main.cpp 
+m
+mr
+vim main.cpp 
+m
+mr
+vim main.cpp 
+m
+mr
+vim main.cpp 
+m
+mr
+vim main.cpp 
+m
+mr
+mr
+vim main.cpp 
+m
+mr
+vim main.cpp 
+m
+mr
+vim main.cpp 
+m
+mr
+gs
+g commit -am "added updateBlock function to snake class and added very broken movement system"
+clear
+m
+mr
+vim main.cpp 
+m
+mr
+vim main.cpp 
+m
+mr
+gs
+vim main.cpp 
+m
+mr
+vim main.cpp 
+m
+mr
+vim main.cpp 
+m
+mr
+vim main.cpp 
+m
+mr
+clear
+vim main.cpp 
+vim main.cpp 
+m
+mr
+qqqqclear
+clear
+clear
+cd programming/cpp/ncurses/snake/
+lsblk
+cd /mnt
+ls
+mkdir usb
+sudo su
+yay
+yay -s testdisk
+yay -S testdisk
+yay -S testdisk
+clear
+testdisk -h
+sudo su
+clear
+s
+ls
+ls
+cd dwm-fork/
+ls
+cd ..
+cd linux-scripts/
+ls
+vim fdisk_cmds 
+vim postinstall2.sh 
+vim install.sh 
+neofetch
+NetworkManager 
+sudo su
+nmcli dev
+nmcli dev connect wlan0
+nmcli dev wifi
+cd slstatus/
+ls
+vim config.h 
+sudo vim config.
+sudo vim config.h
+ls
+make clean install
+sudo su
+nmcli --help
+nmcli d
+nmcli c
+nmcli g
+nmcli d
+nmcli c wlan0
+nmcli c --help
+nmcli --help
+nmcli n
+nmcli n --help
+man nmcli
+ls
+cler
+nmcli devce wifi connect ppbutt candice42069 candice42069
+nmcli device wifi connect ppbutt candice42069 candice42069
+nmcli device wifi connect ppbutt candice69420 candice69420
+nmcli device wifi connect ppbutt password candice69420
+cd ~
+cd ~
+ls
+ls -l
+ls -a
+cd .vim
+ls
+cd colors/
+ls
+vim gruvbox.vim 
+ls
+cd ..
+cd ~
+ls -a
+vim .vimrc 
+cd ..
+ls
+cd ethan/
+ls
+vim dwm-fork/config.h 
+clear
+clear
+yay
+sudo pacman -Syu
+sudo pacman -Syu
+clear
+clear
+clear
+ls
+clear
+git 
+git help
+clear
+git help git
+clear
+clear
+clear
+cd ~
+mkdir linux-resources
+cd linux-resources/
+git remote add origin git@github.com:devethanm/linux-resources
+git remote add origin git@github.com:devethanm/linux-resources.git
+git remote add origin git@github.com:devethanm/linux-resources.git
+git init
+clear
+cd ..
+sudo su
+echo 0.5 > /sys/class/backlight/intel_backlight/brightness 
+sudo echo 0.5 > /sys/class/backlight/intel_backlight/brightness 
+sudo su
+ls
+ls -a
+cp scripts/ linux-resources/scripts/
+cp -r scripts/ linux-resources/scripts/
+ls
+clear
+vim .bash_aliases 
+ls
+ls -a
+ls --regex
+list --regex
+list --regex
+find --regex
+ls
+ls -a
+ls -a
+~/linux-resources/scripts/move.sh .bash_aliases 
+ls
+vim linux-resources/scripts/unhide.sh 
+clear
+ls-a
+ls -a
+cd programming/
+ls
+cd cpp/
+ls
+cd ncurses/
+ls
+cd snake/
+ls
+make run
+clear
+clear
